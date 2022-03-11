@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katastr", "Katastr\Katastr.csproj", "{F413475A-47C4-4F55-9AD9-F7ABB02A9055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F413475A-47C4-4F55-9AD9-F7ABB02A9055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F413475A-47C4-4F55-9AD9-F7ABB02A9055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F413475A-47C4-4F55-9AD9-F7ABB02A9055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F413475A-47C4-4F55-9AD9-F7ABB02A9055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C4B7FA-4F45-473D-B0DB-B4E28229E337}
+	EndGlobalSection
+EndGlobal
